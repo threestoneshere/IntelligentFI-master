@@ -1,0 +1,23 @@
+frontend-56489fb989-drtmc
+adservice1-7bfc6777b5-fw62c cartservice2-655dcccf7-sw9ml currencyservice2-95878bfcc-xmh8b productcatalogservice1-55fcc699c6-zn47w productcatalogservice2-74bff96487-vlndc
+adservice1-7bfc6777b5-fw62c cartservice2-655dcccf7-sw9ml currencyservice1-64cc786bb8-k9lvv currencyservice2-95878bfcc-xmh8b productcatalogservice2-74bff96487-vlndc
+adservice1-7bfc6777b5-fw62c cartservice1-d6c65dc54-f7d75 cartservice2-655dcccf7-sw9ml currencyservice2-95878bfcc-xmh8b productcatalogservice2-74bff96487-vlndc
+adservice1-7bfc6777b5-fw62c adservice2-6978b57b5d-7j7z7 cartservice2-655dcccf7-sw9ml currencyservice2-95878bfcc-xmh8b productcatalogservice2-74bff96487-vlndc
+adservice1-7bfc6777b5-fw62c cartservice1-d6c65dc54-f7d75 cartservice2-655dcccf7-sw9ml currencyservice2-95878bfcc-xmh8b
+adservice1-7bfc6777b5-fw62c cartservice2-655dcccf7-sw9ml currencyservice1-64cc786bb8-k9lvv currencyservice2-95878bfcc-xmh8b
+adservice1-7bfc6777b5-fw62c adservice2-6978b57b5d-7j7z7 cartservice2-655dcccf7-sw9ml currencyservice2-95878bfcc-xmh8b
+adservice1-7bfc6777b5-fw62c adservice2-6978b57b5d-7j7z7 currencyservice2-95878bfcc-xmh8b
+adservice1-7bfc6777b5-fw62c currencyservice1-64cc786bb8-k9lvv currencyservice2-95878bfcc-xmh8b productcatalogservice2-74bff96487-vlndc
+adservice1-7bfc6777b5-fw62c currencyservice2-95878bfcc-xmh8b productcatalogservice1-55fcc699c6-zn47w productcatalogservice2-74bff96487-vlndc
+adservice1-7bfc6777b5-fw62c currencyservice1-64cc786bb8-k9lvv currencyservice2-95878bfcc-xmh8b
+cartservice2-655dcccf7-sw9ml currencyservice1-64cc786bb8-k9lvv currencyservice2-95878bfcc-xmh8b
+cartservice1-d6c65dc54-f7d75 cartservice2-655dcccf7-sw9ml currencyservice2-95878bfcc-xmh8b
+cartservice2-655dcccf7-sw9ml currencyservice2-95878bfcc-xmh8b productcatalogservice1-55fcc699c6-zn47w productcatalogservice2-74bff96487-vlndc
+currencyservice1-64cc786bb8-k9lvv currencyservice2-95878bfcc-xmh8b
+currencyservice2-95878bfcc-xmh8b productcatalogservice1-55fcc699c6-zn47w productcatalogservice2-74bff96487-vlndc
+productcatalogservice1-55fcc699c6-zn47w productcatalogservice2-74bff96487-vlndc
+cartservice1-d6c65dc54-f7d75 cartservice2-655dcccf7-sw9ml productcatalogservice1-55fcc699c6-zn47w
+adservice1-7bfc6777b5-fw62c adservice2-6978b57b5d-7j7z7 productcatalogservice1-55fcc699c6-zn47w
+cartservice1-d6c65dc54-f7d75 cartservice2-655dcccf7-sw9ml
+adservice1-7bfc6777b5-fw62c adservice2-6978b57b5d-7j7z7 cartservice2-655dcccf7-sw9ml
+adservice1-7bfc6777b5-fw62c adservice2-6978b57b5d-7j7z7

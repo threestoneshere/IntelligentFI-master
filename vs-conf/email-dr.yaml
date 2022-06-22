@@ -1,0 +1,13 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: DestinationRule
+metadata:
+  name: emailservice
+  namespace: hipster
+spec:
+  host: emailservice.hipster.svc.cluster.local
+  trafficPolicy:
+    outlierDetection:
+      consecutiveErrors: 1
+      interval: 100ms
+      baseEjectionTime: 3m
+      maxEjectionPercent: 100

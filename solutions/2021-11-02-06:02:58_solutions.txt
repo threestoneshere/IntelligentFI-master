@@ -1,0 +1,15 @@
+frontend-5f856b99f4-27zmv
+currencyservice1-64cc786bb8-d9cjw currencyservice2-95878bfcc-6vmxx
+currencyservice2-95878bfcc-6vmxx productcatalogservice1-55fcc699c6-p2x42 productcatalogservice2-74bff96487-6b6hv
+currencyservice2-95878bfcc-6vmxx productcatalogservice2-74bff96487-6b6hv cartservice1-d6c65dc54-vh7x6 cartservice2-655dcccf7-8vfzd
+currencyservice2-95878bfcc-6vmxx productcatalogservice2-74bff96487-6b6hv cartservice1-d6c65dc54-vh7x6 adservice1-7bfc6777b5-sbcgg adservice2-6978b57b5d-tl2j5
+currencyservice2-95878bfcc-6vmxx productcatalogservice2-74bff96487-6b6hv adservice1-7bfc6777b5-sbcgg adservice2-6978b57b5d-tl2j5
+currencyservice2-95878bfcc-6vmxx cartservice1-d6c65dc54-vh7x6 cartservice2-655dcccf7-8vfzd
+currencyservice1-64cc786bb8-d9cjw productcatalogservice1-55fcc699c6-p2x42 productcatalogservice2-74bff96487-6b6hv
+currencyservice1-64cc786bb8-d9cjw productcatalogservice2-74bff96487-6b6hv cartservice1-d6c65dc54-vh7x6 cartservice2-655dcccf7-8vfzd
+currencyservice1-64cc786bb8-d9cjw productcatalogservice2-74bff96487-6b6hv cartservice1-d6c65dc54-vh7x6 adservice1-7bfc6777b5-sbcgg adservice2-6978b57b5d-tl2j5
+currencyservice1-64cc786bb8-d9cjw productcatalogservice2-74bff96487-6b6hv adservice1-7bfc6777b5-sbcgg adservice2-6978b57b5d-tl2j5
+productcatalogservice1-55fcc699c6-p2x42 productcatalogservice2-74bff96487-6b6hv
+productcatalogservice2-74bff96487-6b6hv cartservice1-d6c65dc54-vh7x6 cartservice2-655dcccf7-8vfzd
+productcatalogservice2-74bff96487-6b6hv adservice1-7bfc6777b5-sbcgg adservice2-6978b57b5d-tl2j5
+cartservice1-d6c65dc54-vh7x6 cartservice2-655dcccf7-8vfzd

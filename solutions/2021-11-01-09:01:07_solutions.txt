@@ -1,0 +1,31 @@
+frontend-5f856b99f4-l7q56
+cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m currencyservice2-95878bfcc-tbx42
+cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s currencyservice2-95878bfcc-tbx42
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j cartservice2-655dcccf7-q4v9s currencyservice2-95878bfcc-tbx42 productcatalogservice2-74bff96487-lbf44
+adservice2-6978b57b5d-6tn4j cartservice2-655dcccf7-q4v9s currencyservice2-95878bfcc-tbx42 productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j cartservice2-655dcccf7-q4v9s currencyservice2-95878bfcc-tbx42
+adservice1-7bfc6777b5-m8c2x cartservice2-655dcccf7-q4v9s currencyservice2-95878bfcc-tbx42 productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+cartservice2-655dcccf7-q4v9s currencyservice2-95878bfcc-tbx42 productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+currencyservice1-64cc786bb8-rtb8m currencyservice2-95878bfcc-tbx42
+currencyservice2-95878bfcc-tbx42 productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j currencyservice2-95878bfcc-tbx42 productcatalogservice1-55fcc699c6-d7szv
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j currencyservice2-95878bfcc-tbx42
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m productcatalogservice2-74bff96487-lbf44
+adservice1-7bfc6777b5-m8c2x cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m productcatalogservice2-74bff96487-lbf44
+adservice1-7bfc6777b5-m8c2x cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+adservice1-7bfc6777b5-m8c2x currencyservice1-64cc786bb8-rtb8m productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j currencyservice1-64cc786bb8-rtb8m productcatalogservice2-74bff96487-lbf44
+adservice2-6978b57b5d-6tn4j cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+adservice2-6978b57b5d-6tn4j cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m productcatalogservice2-74bff96487-lbf44
+cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m productcatalogservice2-74bff96487-lbf44
+cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+currencyservice1-64cc786bb8-rtb8m productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j currencyservice1-64cc786bb8-rtb8m
+adservice1-7bfc6777b5-m8c2x cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m productcatalogservice1-55fcc699c6-d7szv
+adservice1-7bfc6777b5-m8c2x cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m
+cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s currencyservice1-64cc786bb8-rtb8m
+productcatalogservice1-55fcc699c6-d7szv productcatalogservice2-74bff96487-lbf44
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j productcatalogservice1-55fcc699c6-d7szv
+cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s productcatalogservice1-55fcc699c6-d7szv
+adservice2-6978b57b5d-6tn4j cartservice1-d6c65dc54-cwvq4 cartservice2-655dcccf7-q4v9s
+adservice1-7bfc6777b5-m8c2x adservice2-6978b57b5d-6tn4j

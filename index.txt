@@ -1,0 +1,42 @@
+1. [['frontend-56489fb989-md8vh'], ['currencyservice1-64cc786bb8-f4vdz'], ['productcatalogservice2-74bff96487-xghtb'], ['cartservice2-655dcccf7-z4gfn'], ['adservice2-6978b57b5d-dqtmq'], ['currencyservice2-95878bfcc-6m4sk']]
+2. 1-2 currencyservice1-64cc786bb8-f4vdz : [['frontend-56489fb989-md8vh'], ['cartservice2-655dcccf7-z4gfn'], ['currencyservice2-95878bfcc-6m4sk'], ['adservice2-6978b57b5d-dqtmq'], ['productcatalogservice1-55fcc699c6-28fhh']]
+3. 2-2 cartservice2-655dcccf7-z4gfn : [['frontend-56489fb989-md8vh'], ['adservice2-6978b57b5d-dqtmq'], ['productcatalogservice1-55fcc699c6-28fhh'], ['currencyservice2-95878bfcc-6m4sk'], ['cartservice1-d6c65dc54-sd78x']]
+4. 3-2 adservice2-6978b57b5d-dqtmq : [['frontend-56489fb989-md8vh'], ['productcatalogservice1-55fcc699c6-28fhh'], ['cartservice1-d6c65dc54-sd78x'], ['adservice1-7bfc6777b5-4dws6'], ['currencyservice2-95878bfcc-6m4sk']]
+5. 4-2 productcatalogservice1-55fcc699c6-28fhh : [['frontend-56489fb989-md8vh'], ['cartservice1-d6c65dc54-sd78x'], ['productcatalogservice2-74bff96487-xghtb'], ['adservice1-7bfc6777b5-4dws6'], ['currencyservice2-95878bfcc-6m4sk']]
+6. 5-2 cartservice1-d6c65dc54-sd78x : True
+7. 5-3 productcatalogservice2-74bff96487-xghtb : True
+8. 5-4 adservice1-7bfc6777b5-4dws6 : True
+9. 5-5 currencyservice2-95878bfcc-6m4sk : True
+10. 4-3 cartservice1-d6c65dc54-sd78x : True
+11. 4-4 adservice1-7bfc6777b5-4dws6 : True
+12. 4-5 currencyservice2-95878bfcc-6m4sk : True
+13. 3-3 productcatalogservice1-55fcc699c6-28fhh : [['frontend-56489fb989-md8vh'], ['cartservice1-d6c65dc54-sd78x'], ['productcatalogservice2-74bff96487-xghtb'], ['adservice2-6978b57b5d-dqtmq'], ['currencyservice2-95878bfcc-6m4sk']]
+14. 13-2 cartservice1-d6c65dc54-sd78x : True
+15. 13-3 productcatalogservice2-74bff96487-xghtb : True
+16. 13-4 adservice2-6978b57b5d-dqtmq : [['frontend-56489fb989-md8vh'], ['adservice1-7bfc6777b5-4dws6'], ['currencyservice2-95878bfcc-6m4sk'], ['productcatalogservice2-74bff96487-xghtb'], ['cartservice1-d6c65dc54-sd78x']]
+17. 16-3 currencyservice2-95878bfcc-6m4sk : True
+18. 3-4 currencyservice2-95878bfcc-6m4sk : True
+19. 3-5 cartservice1-d6c65dc54-sd78x : True
+20. 2-3 currencyservice2-95878bfcc-6m4sk : True
+21. 2-4 adservice2-6978b57b5d-dqtmq : [['frontend-56489fb989-md8vh'], ['adservice1-7bfc6777b5-4dws6'], ['currencyservice2-95878bfcc-6m4sk'], ['productcatalogservice2-74bff96487-xghtb', 'productcatalogservice1-55fcc699c6-28fhh']]
+22. 22-2 adservice1-7bfc6777b5-4dws6 : True
+23. 22-4 ['productcatalogservice2-74bff96487-xghtb', 'productcatalogservice1-55fcc699c6-28fhh'] : True
+24. 2-5 productcatalogservice1-55fcc699c6-28fhh : [['frontend-56489fb989-md8vh'], ['currencyservice2-95878bfcc-6m4sk'], ['adservice2-6978b57b5d-dqtmq', 'adservice1-7bfc6777b5-4dws6'], ['productcatalogservice2-74bff96487-xghtb']]
+25. 25-5 productcatalogservice2-74bff96487-xghtb : True
+26. 1-3 productcatalogservice2-74bff96487-xghtb : [['frontend-56489fb989-md8vh'], ['productcatalogservice1-55fcc699c6-28fhh'], ['currencyservice2-95878bfcc-6m4sk'], ['cartservice2-655dcccf7-z4gfn', 'cartservice1-d6c65dc54-sd78x'], ['adservice1-7bfc6777b5-4dws6', 'adservice2-6978b57b5d-dqtmq']]
+27. 27-2 productcatalogservice1-55fcc699c6-28fhh : True
+28. 27-3 currencyservice2-95878bfcc-6m4sk : [['frontend-56489fb989-md8vh'], ['cartservice1-d6c65dc54-sd78x'], ['productcatalogservice1-55fcc699c6-28fhh'], ['currencyservice1-64cc786bb8-f4vdz'], ['adservice2-6978b57b5d-dqtmq']]
+29. 29-2 cartservice1-d6c65dc54-sd78x : [['frontend-56489fb989-md8vh'], ['currencyservice1-64cc786bb8-f4vdz'], ['productcatalogservice1-55fcc699c6-28fhh'], ['adservice2-6978b57b5d-dqtmq'], ['cartservice2-655dcccf7-z4gfn']]
+30. 30-2 adservice2-6978b57b5d-dqtmq : [['frontend-56489fb989-md8vh'], ['adservice1-7bfc6777b5-4dws6'], ['cartservice2-655dcccf7-z4gfn'], ['productcatalogservice1-55fcc699c6-28fhh'], ['currencyservice1-64cc786bb8-f4vdz']]
+31. 31-2 adservice1-7bfc6777b5-4dws6 : True
+32. 31-3 cartservice2-655dcccf7-z4gfn : True
+33. 30-5 cartservice2-655dcccf7-z4gfn : True
+34. 29-5 adservice2-6978b57b5d-dqtmq : [['frontend-56489fb989-md8vh'], ['cartservice1-d6c65dc54-sd78x'], ['adservice1-7bfc6777b5-4dws6'], ['currencyservice1-64cc786bb8-f4vdz'], ['productcatalogservice1-55fcc699c6-28fhh']]
+35. 35-2 cartservice1-d6c65dc54-sd78x : [['frontend-56489fb989-md8vh'], ['currencyservice1-64cc786bb8-f4vdz'], ['cartservice2-655dcccf7-z4gfn'], ['productcatalogservice1-55fcc699c6-28fhh'], ['adservice1-7bfc6777b5-4dws6']]
+36. 36-5 adservice1-7bfc6777b5-4dws6 : True
+37. 27-4 ['cartservice2-655dcccf7-z4gfn', 'cartservice1-d6c65dc54-sd78x'] : True
+38. 27-5 ['adservice1-7bfc6777b5-4dws6', 'adservice2-6978b57b5d-dqtmq'] : True
+39. 1-4 cartservice2-655dcccf7-z4gfn : [['frontend-56489fb989-md8vh'], ['productcatalogservice2-74bff96487-xghtb', 'productcatalogservice1-55fcc699c6-28fhh'], ['adservice1-7bfc6777b5-4dws6', 'adservice2-6978b57b5d-dqtmq']]
+40. 39-3 ['adservice1-7bfc6777b5-4dws6', 'adservice2-6978b57b5d-dqtmq'] : True
+41. 1-5 adservice2-6978b57b5d-dqtmq : [['frontend-56489fb989-md8vh'], ['adservice1-7bfc6777b5-4dws6'], ['productcatalogservice1-55fcc699c6-28fhh', 'productcatalogservice2-74bff96487-xghtb']]
+42. 41-2 adservice1-7bfc6777b5-4dws6 : True

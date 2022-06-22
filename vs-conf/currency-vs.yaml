@@ -1,0 +1,17 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: currencyservice
+  namespace: hipster
+spec:
+  hosts:
+    - currencyservice
+  http:
+  - route:
+    - destination:
+        host: currencyservice
+    timeout: 500ms
+    # retries:
+    #   attempts: 3
+    #   perTryTimeout: 100ms
+    #   retryOn: 5xx

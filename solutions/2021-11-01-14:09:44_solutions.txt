@@ -1,0 +1,23 @@
+frontend-5f856b99f4-9rfks
+currencyservice1-64cc786bb8-68tw9 currencyservice2-95878bfcc-l5gsb adservice1-7bfc6777b5-tmn6z
+currencyservice1-64cc786bb8-68tw9 cartservice1-d6c65dc54-mjk56 cartservice2-655dcccf7-bnlth adservice1-7bfc6777b5-tmn6z
+currencyservice1-64cc786bb8-68tw9 productcatalogservice1-55fcc699c6-qjzjv productcatalogservice2-74bff96487-pvsgk cartservice2-655dcccf7-bnlth adservice1-7bfc6777b5-tmn6z
+currencyservice1-64cc786bb8-68tw9 productcatalogservice1-55fcc699c6-qjzjv cartservice2-655dcccf7-bnlth adservice1-7bfc6777b5-tmn6z adservice2-6978b57b5d-l4nrd
+currencyservice1-64cc786bb8-68tw9 adservice1-7bfc6777b5-tmn6z adservice2-6978b57b5d-l4nrd
+currencyservice1-64cc786bb8-68tw9 productcatalogservice1-55fcc699c6-qjzjv productcatalogservice2-74bff96487-pvsgk adservice1-7bfc6777b5-tmn6z
+currencyservice1-64cc786bb8-68tw9 currencyservice2-95878bfcc-l5gsb
+currencyservice1-64cc786bb8-68tw9 productcatalogservice1-55fcc699c6-qjzjv productcatalogservice2-74bff96487-pvsgk
+currencyservice1-64cc786bb8-68tw9 productcatalogservice2-74bff96487-pvsgk cartservice1-d6c65dc54-mjk56 cartservice2-655dcccf7-bnlth
+currencyservice1-64cc786bb8-68tw9 cartservice1-d6c65dc54-mjk56 cartservice2-655dcccf7-bnlth
+currencyservice2-95878bfcc-l5gsb cartservice1-d6c65dc54-mjk56 adservice1-7bfc6777b5-tmn6z adservice2-6978b57b5d-l4nrd
+currencyservice2-95878bfcc-l5gsb cartservice1-d6c65dc54-mjk56 cartservice2-655dcccf7-bnlth adservice1-7bfc6777b5-tmn6z
+currencyservice2-95878bfcc-l5gsb productcatalogservice1-55fcc699c6-qjzjv productcatalogservice2-74bff96487-pvsgk cartservice1-d6c65dc54-mjk56 adservice1-7bfc6777b5-tmn6z
+currencyservice2-95878bfcc-l5gsb productcatalogservice1-55fcc699c6-qjzjv cartservice1-d6c65dc54-mjk56 cartservice2-655dcccf7-bnlth
+currencyservice2-95878bfcc-l5gsb productcatalogservice1-55fcc699c6-qjzjv productcatalogservice2-74bff96487-pvsgk cartservice1-d6c65dc54-mjk56
+currencyservice2-95878bfcc-l5gsb cartservice1-d6c65dc54-mjk56 cartservice2-655dcccf7-bnlth
+cartservice1-d6c65dc54-mjk56 cartservice2-655dcccf7-bnlth
+cartservice1-d6c65dc54-mjk56 adservice1-7bfc6777b5-tmn6z adservice2-6978b57b5d-l4nrd
+productcatalogservice1-55fcc699c6-qjzjv productcatalogservice2-74bff96487-pvsgk cartservice1-d6c65dc54-mjk56
+productcatalogservice1-55fcc699c6-qjzjv adservice1-7bfc6777b5-tmn6z adservice2-6978b57b5d-l4nrd
+productcatalogservice1-55fcc699c6-qjzjv productcatalogservice2-74bff96487-pvsgk
+adservice1-7bfc6777b5-tmn6z adservice2-6978b57b5d-l4nrd

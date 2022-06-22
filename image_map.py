@@ -1,0 +1,12 @@
+image_map = {}
+image_map["currencyservice"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-currencyservice:opentelemetry2"
+image_map["cartservice"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-cartservice:opentelemetry4"
+image_map["adservice"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-adservice:latest"
+image_map["frontend"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-frontend:opentelemetry3"
+image_map["paymentservice"] = " registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-paymentservice:opentelemetry2"
+image_map["emailservice"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-emailservice:opentelemetry4"
+image_map["productcatalogservice"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-productcatalogservice:opentelemetry2"
+image_map["shippingservice"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-shippingservice:opentelemetry2"
+image_map["checkoutservice"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-checkoutservice:opentelemetry2"
+image_map["recommendationservice"] = "registry.cn-shenzhen.aliyuncs.com/trainticket/hipster-recommendationservice:opentelemetry2"
+image_map["istio-proxy"] = "docker.io/istio/proxyv2:1.6.7"

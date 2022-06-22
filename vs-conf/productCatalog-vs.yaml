@@ -1,0 +1,16 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: productcatalogservice
+  namespace: hipster
+spec:
+  hosts:
+    - productcatalogservice
+  http:
+  - route:
+    - destination:
+        host: productcatalogservice
+    retries:
+      attempts: 3
+      perTryTimeout: 80ms
+      retryOn: 5xx

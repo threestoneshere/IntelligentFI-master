@@ -1,0 +1,5 @@
+frontend-5f856b99f4-rtrfr
+currencyservice1-64cc786bb8-czbvr currencyservice2-95878bfcc-v5sx9
+productcatalogservice1-55fcc699c6-jh877 productcatalogservice2-74bff96487-xhcl4
+cartservice1-d6c65dc54-tht7c cartservice2-655dcccf7-gn4dh
+adservice1-7bfc6777b5-k5r86 adservice2-6978b57b5d-8r48d

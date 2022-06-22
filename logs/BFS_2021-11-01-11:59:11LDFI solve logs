@@ -1,0 +1,35 @@
+2021-11-01 12:00:03	0-0. [] ['frontend-5f856b99f4-mxtj7']: True
+2021-11-01 12:00:55	0-1. [] ['currencyservice2-95878bfcc-p7z22']: False
+2021-11-01 12:01:42	0-2. [] ['productcatalogservice1-55fcc699c6-lc2jv']: False
+2021-11-01 12:02:28	0-3. [] ['cartservice1-d6c65dc54-hhr5j']: False
+2021-11-01 12:03:28	0-4. [] ['adservice2-6978b57b5d-df852']: False
+2021-11-01 12:04:25	0-5. [] ['currencyservice1-64cc786bb8-j2942']: False
+2021-11-01 12:05:36	1-1. ['currencyservice2-95878bfcc-p7z22'] ['adservice1-7bfc6777b5-s7v4p']: False
+2021-11-01 12:06:15	1-2. ['currencyservice2-95878bfcc-p7z22'] ['cartservice1-d6c65dc54-hhr5j']: False
+2021-11-01 12:07:03	1-3. ['currencyservice2-95878bfcc-p7z22'] ['productcatalogservice2-74bff96487-tht7p']: False
+2021-11-01 12:07:32	1-4. ['currencyservice2-95878bfcc-p7z22'] ['currencyservice1-64cc786bb8-j2942']: True
+2021-11-01 12:08:14	2-1. ['productcatalogservice1-55fcc699c6-lc2jv'] ['adservice1-7bfc6777b5-s7v4p']: False
+2021-11-01 12:08:36	2-2. ['productcatalogservice1-55fcc699c6-lc2jv'] ['productcatalogservice2-74bff96487-tht7p']: True
+2021-11-01 12:09:14	2-3. ['productcatalogservice1-55fcc699c6-lc2jv'] ['cartservice1-d6c65dc54-hhr5j']: False
+2021-11-01 12:09:57	3-2. ['cartservice1-d6c65dc54-hhr5j'] ['adservice1-7bfc6777b5-s7v4p']: False
+2021-11-01 12:10:35	3-3. ['cartservice1-d6c65dc54-hhr5j'] ['productcatalogservice2-74bff96487-tht7p']: False
+2021-11-01 12:11:06	3-4. ['cartservice1-d6c65dc54-hhr5j'] ['cartservice2-655dcccf7-wmvlv']: True
+2021-11-01 12:11:16	4-1. ['adservice2-6978b57b5d-df852'] ['adservice1-7bfc6777b5-s7v4p']: True
+2021-11-01 12:12:49	4-2. ['adservice2-6978b57b5d-df852'] ['productcatalogservice2-74bff96487-tht7p']: False
+2021-11-01 12:13:50	5-1. ['currencyservice1-64cc786bb8-j2942'] ['productcatalogservice2-74bff96487-tht7p']: False
+2021-11-01 12:15:15	5-3. ['currencyservice1-64cc786bb8-j2942'] ['adservice1-7bfc6777b5-s7v4p']: False
+2021-11-01 12:16:54	6-1. ['adservice1-7bfc6777b5-s7v4p', 'currencyservice2-95878bfcc-p7z22'] ['productcatalogservice2-74bff96487-tht7p']: False
+2021-11-01 12:19:38	6-2. ['adservice1-7bfc6777b5-s7v4p', 'currencyservice2-95878bfcc-p7z22'] ['cartservice1-d6c65dc54-hhr5j']: False
+2021-11-01 12:21:20	7-4. ['cartservice1-d6c65dc54-hhr5j', 'currencyservice2-95878bfcc-p7z22'] ['productcatalogservice2-74bff96487-tht7p']: False
+2021-11-01 12:26:40	9-1. ['adservice1-7bfc6777b5-s7v4p', 'productcatalogservice1-55fcc699c6-lc2jv'] ['cartservice1-d6c65dc54-hhr5j']: False
+2021-11-01 12:31:53	9-4. ['adservice1-7bfc6777b5-s7v4p', 'productcatalogservice1-55fcc699c6-lc2jv'] ['currencyservice1-64cc786bb8-j2942']: False
+2021-11-01 12:32:40	11-1. ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j'] ['productcatalogservice2-74bff96487-tht7p']: False
+2021-11-01 12:36:49	11-5. ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j'] ['currencyservice1-64cc786bb8-j2942']: False
+2021-11-01 12:37:54	12-3. ['cartservice1-d6c65dc54-hhr5j', 'productcatalogservice2-74bff96487-tht7p'] ['currencyservice1-64cc786bb8-j2942']: False
+2021-11-01 12:43:09	13-1. ['adservice2-6978b57b5d-df852', 'productcatalogservice2-74bff96487-tht7p'] ['currencyservice1-64cc786bb8-j2942']: False
+2021-11-01 12:44:13	14-1. ['currencyservice1-64cc786bb8-j2942', 'productcatalogservice2-74bff96487-tht7p'] ['adservice1-7bfc6777b5-s7v4p']: False
+2021-11-01 12:45:50	16-3. ['adservice1-7bfc6777b5-s7v4p', 'currencyservice2-95878bfcc-p7z22', 'productcatalogservice2-74bff96487-tht7p'] ['cartservice1-d6c65dc54-hhr5j']: False
+2021-11-01 12:51:17	17-3. ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'currencyservice2-95878bfcc-p7z22'] ['productcatalogservice1-55fcc699c6-lc2jv']: False
+2021-11-01 12:56:26	21-1. ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'productcatalogservice2-74bff96487-tht7p'] ['currencyservice1-64cc786bb8-j2942']: False
+2021-11-01 13:00:58	[['frontend-5f856b99f4-mxtj7'], ['currencyservice1-64cc786bb8-j2942', 'currencyservice2-95878bfcc-p7z22'], ['productcatalogservice1-55fcc699c6-lc2jv', 'productcatalogservice2-74bff96487-tht7p'], ['cartservice1-d6c65dc54-hhr5j', 'cartservice2-655dcccf7-wmvlv'], ['adservice1-7bfc6777b5-s7v4p', 'adservice2-6978b57b5d-df852']]
+2021-11-01 13:00:58	[['frontend-5f856b99f4-mxtj7'], ['currencyservice2-95878bfcc-p7z22'], ['productcatalogservice1-55fcc699c6-lc2jv'], ['cartservice1-d6c65dc54-hhr5j'], ['adservice2-6978b57b5d-df852'], ['currencyservice1-64cc786bb8-j2942'], ['adservice1-7bfc6777b5-s7v4p', 'currencyservice2-95878bfcc-p7z22'], ['cartservice1-d6c65dc54-hhr5j', 'currencyservice2-95878bfcc-p7z22'], ['currencyservice2-95878bfcc-p7z22', 'productcatalogservice2-74bff96487-tht7p'], ['currencyservice1-64cc786bb8-j2942', 'currencyservice2-95878bfcc-p7z22'], ['adservice1-7bfc6777b5-s7v4p', 'productcatalogservice1-55fcc699c6-lc2jv'], ['productcatalogservice1-55fcc699c6-lc2jv', 'productcatalogservice2-74bff96487-tht7p'], ['cartservice1-d6c65dc54-hhr5j', 'productcatalogservice1-55fcc699c6-lc2jv'], ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j'], ['cartservice1-d6c65dc54-hhr5j', 'productcatalogservice2-74bff96487-tht7p'], ['cartservice1-d6c65dc54-hhr5j', 'cartservice2-655dcccf7-wmvlv'], ['adservice1-7bfc6777b5-s7v4p', 'adservice2-6978b57b5d-df852'], ['adservice2-6978b57b5d-df852', 'productcatalogservice2-74bff96487-tht7p'], ['currencyservice1-64cc786bb8-j2942', 'productcatalogservice2-74bff96487-tht7p'], ['adservice1-7bfc6777b5-s7v4p', 'currencyservice1-64cc786bb8-j2942'], ['adservice1-7bfc6777b5-s7v4p', 'currencyservice2-95878bfcc-p7z22', 'productcatalogservice2-74bff96487-tht7p'], ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'currencyservice2-95878bfcc-p7z22'], ['cartservice1-d6c65dc54-hhr5j', 'currencyservice2-95878bfcc-p7z22', 'productcatalogservice2-74bff96487-tht7p'], ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'productcatalogservice1-55fcc699c6-lc2jv'], ['adservice1-7bfc6777b5-s7v4p', 'currencyservice1-64cc786bb8-j2942', 'productcatalogservice1-55fcc699c6-lc2jv'], ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'productcatalogservice2-74bff96487-tht7p'], ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'currencyservice1-64cc786bb8-j2942'], ['cartservice1-d6c65dc54-hhr5j', 'currencyservice1-64cc786bb8-j2942', 'productcatalogservice2-74bff96487-tht7p'], ['adservice2-6978b57b5d-df852', 'currencyservice1-64cc786bb8-j2942', 'productcatalogservice2-74bff96487-tht7p'], ['adservice1-7bfc6777b5-s7v4p', 'currencyservice1-64cc786bb8-j2942', 'productcatalogservice2-74bff96487-tht7p'], ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'currencyservice2-95878bfcc-p7z22', 'productcatalogservice2-74bff96487-tht7p'], ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'currencyservice2-95878bfcc-p7z22', 'productcatalogservice1-55fcc699c6-lc2jv'], ['adservice1-7bfc6777b5-s7v4p', 'cartservice1-d6c65dc54-hhr5j', 'currencyservice1-64cc786bb8-j2942', 'productcatalogservice2-74bff96487-tht7p']]

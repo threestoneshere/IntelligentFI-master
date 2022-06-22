@@ -1,0 +1,43 @@
+2021-09-28 07:16:30	0. 0 []: [['frontend-56489fb989-gkzkt'], ['currencyservice2-95878bfcc-8h9dk'], ['productcatalogservice1-55fcc699c6-7hsg4'], ['cartservice2-655dcccf7-jvbmz'], ['adservice2-6978b57b5d-s5gqn'], ['currencyservice1-64cc786bb8-rxlkh']]
+2021-09-28 07:17:58	1. 0 ['frontend-56489fb989-gkzkt']: True
+2021-09-28 07:21:53	2. 0 ['currencyservice2-95878bfcc-8h9dk']: [['frontend-56489fb989-gkzkt'], ['currencyservice1-64cc786bb8-rxlkh'], ['adservice2-6978b57b5d-s5gqn'], ['cartservice1-d6c65dc54-6fzl4'], ['productcatalogservice1-55fcc699c6-7hsg4']]
+2021-09-28 07:22:52	3. 2 ['currencyservice1-64cc786bb8-rxlkh']: True
+2021-09-28 07:23:58	4. 2 ['adservice2-6978b57b5d-s5gqn']: [['frontend-56489fb989-gkzkt'], ['cartservice1-d6c65dc54-6fzl4'], ['productcatalogservice1-55fcc699c6-7hsg4'], ['currencyservice1-64cc786bb8-rxlkh'], ['adservice1-7bfc6777b5-bqk55']]
+2021-09-28 07:26:04	5. 4 ['cartservice1-d6c65dc54-6fzl4']: [['frontend-56489fb989-gkzkt'], ['productcatalogservice1-55fcc699c6-7hsg4'], ['currencyservice1-64cc786bb8-rxlkh'], ['adservice1-7bfc6777b5-bqk55'], ['cartservice2-655dcccf7-jvbmz']]
+2021-09-28 07:27:35	6. 5 ['productcatalogservice1-55fcc699c6-7hsg4']: [['frontend-56489fb989-gkzkt'], ['productcatalogservice2-74bff96487-sgn6z'], ['currencyservice1-64cc786bb8-rxlkh'], ['cartservice2-655dcccf7-jvbmz'], ['adservice1-7bfc6777b5-bqk55']]
+2021-09-28 07:28:15	7. 6 ['productcatalogservice2-74bff96487-sgn6z']: True
+2021-09-28 07:29:20	8. 6 ['cartservice2-655dcccf7-jvbmz']: True
+2021-09-28 07:30:06	9. 6 ['adservice1-7bfc6777b5-bqk55']: True
+2021-09-28 07:31:04	10. 5 ['adservice1-7bfc6777b5-bqk55']: True
+2021-09-28 07:32:01	11. 5 ['cartservice2-655dcccf7-jvbmz']: True
+2021-09-28 07:34:03	12. 4 ['productcatalogservice1-55fcc699c6-7hsg4']: [['frontend-56489fb989-gkzkt'], ['adservice1-7bfc6777b5-bqk55'], ['currencyservice1-64cc786bb8-rxlkh'], ['productcatalogservice2-74bff96487-sgn6z'], ['cartservice1-d6c65dc54-6fzl4', 'cartservice2-655dcccf7-jvbmz']]
+2021-09-28 07:34:23	13. 12 ['adservice1-7bfc6777b5-bqk55']: True
+2021-09-28 07:35:10	14. 12 ['productcatalogservice2-74bff96487-sgn6z']: True
+2021-09-28 07:36:29	15. 4 ['adservice1-7bfc6777b5-bqk55']: True
+2021-09-28 07:39:18	16. 2 ['cartservice1-d6c65dc54-6fzl4']: [['frontend-56489fb989-gkzkt'], ['currencyservice1-64cc786bb8-rxlkh'], ['cartservice2-655dcccf7-jvbmz'], ['adservice2-6978b57b5d-s5gqn', 'adservice1-7bfc6777b5-bqk55'], ['productcatalogservice2-74bff96487-sgn6z', 'productcatalogservice1-55fcc699c6-7hsg4']]
+2021-09-28 07:39:48	17. 16 ['cartservice2-655dcccf7-jvbmz']: True
+2021-09-28 07:40:30	18. 16 ['productcatalogservice2-74bff96487-sgn6z', 'productcatalogservice1-55fcc699c6-7hsg4']: True
+2021-09-28 07:42:32	19. 2 ['productcatalogservice1-55fcc699c6-7hsg4']: [['frontend-56489fb989-gkzkt'], ['currencyservice1-64cc786bb8-rxlkh'], ['cartservice1-d6c65dc54-6fzl4', 'cartservice2-655dcccf7-jvbmz'], ['productcatalogservice2-74bff96487-sgn6z'], ['adservice1-7bfc6777b5-bqk55', 'adservice2-6978b57b5d-s5gqn']]
+2021-09-28 07:43:03	20. 19 ['productcatalogservice2-74bff96487-sgn6z']: True
+2021-09-28 07:45:10	21. 0 ['productcatalogservice1-55fcc699c6-7hsg4']: [['frontend-56489fb989-gkzkt'], ['productcatalogservice2-74bff96487-sgn6z'], ['currencyservice1-64cc786bb8-rxlkh'], ['cartservice1-d6c65dc54-6fzl4', 'cartservice2-655dcccf7-jvbmz'], ['adservice1-7bfc6777b5-bqk55', 'adservice2-6978b57b5d-s5gqn']]
+2021-09-28 07:45:39	22. 21 ['productcatalogservice2-74bff96487-sgn6z']: True
+2021-09-28 07:48:03	23. 21 ['currencyservice1-64cc786bb8-rxlkh']: [['frontend-56489fb989-gkzkt'], ['currencyservice2-95878bfcc-8h9dk'], ['adservice2-6978b57b5d-s5gqn'], ['productcatalogservice2-74bff96487-sgn6z'], ['cartservice1-d6c65dc54-6fzl4']]
+2021-09-28 07:48:57	24. 23 ['adservice2-6978b57b5d-s5gqn']: [['frontend-56489fb989-gkzkt'], ['currencyservice2-95878bfcc-8h9dk'], ['adservice1-7bfc6777b5-bqk55'], ['productcatalogservice2-74bff96487-sgn6z'], ['cartservice1-d6c65dc54-6fzl4']]
+2021-09-28 07:49:07	25. 24 ['adservice1-7bfc6777b5-bqk55']: True
+2021-09-28 07:50:00	26. 24 ['cartservice1-d6c65dc54-6fzl4']: [['frontend-56489fb989-gkzkt'], ['currencyservice2-95878bfcc-8h9dk'], ['productcatalogservice2-74bff96487-sgn6z'], ['adservice1-7bfc6777b5-bqk55'], ['cartservice2-655dcccf7-jvbmz']]
+2021-09-28 07:51:26	27. 26 ['cartservice2-655dcccf7-jvbmz']: True
+2021-09-28 07:52:50	28. 23 ['cartservice1-d6c65dc54-6fzl4']: [['frontend-56489fb989-gkzkt'], ['cartservice2-655dcccf7-jvbmz'], ['productcatalogservice2-74bff96487-sgn6z'], ['currencyservice2-95878bfcc-8h9dk'], ['adservice2-6978b57b5d-s5gqn', 'adservice1-7bfc6777b5-bqk55']]
+2021-09-28 07:53:26	29. 28 ['cartservice2-655dcccf7-jvbmz']: True
+2021-09-28 07:54:37	30. 21 ['cartservice1-d6c65dc54-6fzl4', 'cartservice2-655dcccf7-jvbmz']: True
+2021-09-28 07:55:09	31. 21 ['adservice1-7bfc6777b5-bqk55', 'adservice2-6978b57b5d-s5gqn']: True
+2021-09-28 07:56:32	32. 0 ['cartservice2-655dcccf7-jvbmz']: [['frontend-56489fb989-gkzkt'], ['cartservice1-d6c65dc54-6fzl4'], ['adservice2-6978b57b5d-s5gqn', 'adservice1-7bfc6777b5-bqk55'], ['productcatalogservice2-74bff96487-sgn6z', 'productcatalogservice1-55fcc699c6-7hsg4']]
+2021-09-28 07:57:13	33. 32 ['cartservice1-d6c65dc54-6fzl4']: True
+2021-09-28 07:57:45	34. 32 ['adservice2-6978b57b5d-s5gqn', 'adservice1-7bfc6777b5-bqk55']: True
+2021-09-28 07:59:23	35. 0 ['adservice2-6978b57b5d-s5gqn']: [['frontend-56489fb989-gkzkt'], ['productcatalogservice2-74bff96487-sgn6z', 'productcatalogservice1-55fcc699c6-7hsg4'], ['cartservice1-d6c65dc54-6fzl4', 'cartservice2-655dcccf7-jvbmz'], ['adservice1-7bfc6777b5-bqk55']]
+2021-09-28 07:59:49	36. 35 ['adservice1-7bfc6777b5-bqk55']: True
+2021-09-28 08:01:25	37. 0 ['currencyservice1-64cc786bb8-rxlkh']: [['frontend-56489fb989-gkzkt'], ['productcatalogservice2-74bff96487-sgn6z'], ['currencyservice2-95878bfcc-8h9dk'], ['cartservice1-d6c65dc54-6fzl4', 'cartservice2-655dcccf7-jvbmz'], ['adservice2-6978b57b5d-s5gqn', 'adservice1-7bfc6777b5-bqk55']]
+2021-09-28 08:02:27	38. 37 ['productcatalogservice2-74bff96487-sgn6z']: [['frontend-56489fb989-gkzkt'], ['productcatalogservice1-55fcc699c6-7hsg4'], ['cartservice1-d6c65dc54-6fzl4'], ['adservice2-6978b57b5d-s5gqn'], ['currencyservice2-95878bfcc-8h9dk']]
+2021-09-28 08:03:55	39. 38 ['cartservice1-d6c65dc54-6fzl4']: [['frontend-56489fb989-gkzkt'], ['adservice2-6978b57b5d-s5gqn'], ['cartservice2-655dcccf7-jvbmz'], ['productcatalogservice1-55fcc699c6-7hsg4'], ['currencyservice2-95878bfcc-8h9dk']]
+2021-09-28 08:04:41	40. 39 ['adservice2-6978b57b5d-s5gqn']: [['frontend-56489fb989-gkzkt'], ['productcatalogservice1-55fcc699c6-7hsg4'], ['cartservice2-655dcccf7-jvbmz'], ['adservice1-7bfc6777b5-bqk55'], ['currencyservice2-95878bfcc-8h9dk']]
+2021-09-28 08:06:26	41. 38 ['adservice2-6978b57b5d-s5gqn']: [['frontend-56489fb989-gkzkt'], ['productcatalogservice1-55fcc699c6-7hsg4'], ['currencyservice2-95878bfcc-8h9dk'], ['adservice1-7bfc6777b5-bqk55'], ['cartservice1-d6c65dc54-6fzl4']]
+2021-09-28 08:07:31	42. 41 ['cartservice1-d6c65dc54-6fzl4']: [['frontend-56489fb989-gkzkt'], ['cartservice2-655dcccf7-jvbmz'], ['currencyservice2-95878bfcc-8h9dk'], ['adservice1-7bfc6777b5-bqk55'], ['productcatalogservice1-55fcc699c6-7hsg4']]

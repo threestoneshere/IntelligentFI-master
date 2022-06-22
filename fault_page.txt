@@ -1,0 +1,210 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Online Boutique</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
+        crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/static/styles/styles.css">
+    <link rel="stylesheet" type="text/css" href="/static/styles/cart.css">
+    <link rel="stylesheet" type="text/css" href="/static/styles/order.css">
+    <link rel='shortcut icon' type='image/x-icon' href='/static/favicon.ico' />
+</head>
+
+<body>
+    <header>
+        <div class="navbar">
+            <div class="container d-flex justify-content-between">
+                <div class="h-free-shipping">Free shipping with $75 purchase! &nbsp;&nbsp;</div>
+
+
+                
+                <div class="h-controls">
+                    <div class="h-control">
+                        <img src="/static/icons/Hipster_CurrencyIcon.svg" alt="icon" class="icon" />
+                        <form method="POST" class="controls-form" action="/setCurrency" id="currency_form" >
+                            <select name="currency_code" onchange="document.getElementById('currency_form').submit();">
+                                    
+                                <option value="EUR" >EUR</option>
+                                
+                                <option value="USD" selected="selected">USD</option>
+                                
+                                <option value="JPY" >JPY</option>
+                                
+                                <option value="GBP" >GBP</option>
+                                
+                                <option value="TRY" >TRY</option>
+                                
+                                <option value="CAD" >CAD</option>
+                                
+                            </select>
+                        </form>
+                        <img src="/static/icons/Hipster_DownArrow.svg" alt="icon" class="icon arrow" />
+                    </div>
+                </div>
+                
+
+            </div>
+        </div>
+        <div class="navbar sub-navbar">
+            <div class="container d-flex justify-content-between">
+                <a href="/" class="navbar-brand d-flex align-items-center">
+                    <img src="/static/icons/Hipster_NavLogo.svg" alt="logo" class="logo" />
+                </a>
+                <div class="controls">
+                    <a href="/cart">
+                        <img src="/static/icons/Hipster_CartIcon.svg" alt="cart-icon" class="logo" />
+                        <span>Cart
+                            
+                        </span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+    </header>
+    
+<div  class="gcp-platform" >
+  <span class="platform-flag">
+    Google Cloud
+  </span>
+</div>
+
+<main role="main">
+  <div class="h-product">
+    <div class="row">
+      <div class="col">
+        <img src="/static/img/products/film-camera.jpg" />
+      </div>
+      <div class="product-info col">
+        <div class="product-wrapper">
+          <h2>Film Camera</h2>
+
+          <p class="text-muted">
+            USD 2244.99
+          </p>
+          <div>
+            <h6>Product Description:</h6>
+            This camera looks like it&#39;s a film camera, but it&#39;s actually digital.
+          </div>
+
+          <form method="POST" action="/cart" class="form-inline">
+            <input type="hidden" name="product_id" value="2ZYFJ3GM2N" />
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <label class="input-group-text" for="quantity">Quantity</label>
+              </div>
+              <select name="quantity" id="quantity" class="custom-select form-control form-control-lg">
+                <option>1</option>
+                <option>2</option>
+                <option>3</option>
+                <option>4</option>
+                <option>5</option>
+                <option>10</option>
+              </select>
+              <button type="submit" class="btn btn-info btn-lg ml-3">Add to Cart</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container py-3 px-lg-5 py-lg-5">
+    
+      
+<section class="recommendations">
+    <div class="container">
+      <div class="image">
+        <img src="/static/icons/Hipster_OtherProducts.svg" alt="icon" />
+      </div>
+      <div class="row prods">
+          
+          <div class="col-md-3">
+            <div class="h-card card mb-3 box-shadow">
+              <a href="/product/0PUK6V6EV0">
+                <img alt="" style="width: 100%; height: auto;" src="/static/img/products/record-player.jpg">
+                <div class="card-hover"></div>
+              </a>
+              <div class="card-body text-center py-2">
+                <h5 class="card-title h-card-title">
+                  Vintage Record Player
+                </h5>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-3">
+            <div class="h-card card mb-3 box-shadow">
+              <a href="/product/LS4PSXUNUM">
+                <img alt="" style="width: 100%; height: auto;" src="/static/img/products/camp-mug.jpg">
+                <div class="card-hover"></div>
+              </a>
+              <div class="card-body text-center py-2">
+                <h5 class="card-title h-card-title">
+                  Metal Camping Mug
+                </h5>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-3">
+            <div class="h-card card mb-3 box-shadow">
+              <a href="/product/6E92ZMYYFZ">
+                <img alt="" style="width: 100%; height: auto;" src="/static/img/products/air-plant.jpg">
+                <div class="card-hover"></div>
+              </a>
+              <div class="card-body text-center py-2">
+                <h5 class="card-title h-card-title">
+                  Air Plant
+                </h5>
+              </div>
+            </div>
+          </div>
+          
+          <div class="col-md-3">
+            <div class="h-card card mb-3 box-shadow">
+              <a href="/product/9SIQT8TOJO">
+                <img alt="" style="width: 100%; height: auto;" src="/static/img/products/city-bike.jpg">
+                <div class="card-hover"></div>
+              </a>
+              <div class="card-body text-center py-2">
+                <h5 class="card-title h-card-title">
+                  City Bike
+                </h5>
+              </div>
+            </div>
+          </div>
+          
+        </div>
+    </div>
+</section>
+
+    
+
+   
+
+  </div>
+</main>
+
+
+<footer class="py-5">
+    <div class="footer-top">
+        <div class="container footer-social">
+                <p class="footer-text">© 2020 Google Inc (<a href="https://github.com/GoogleCloudPlatform/microservices-demo">Source Code</a>) — </p>
+                <p class="footer-text">  This website is hosted for demo purposes only. It is not an actual shop. This is not a Google product.</p>
+        </div>
+
+    </div>
+</footer>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+    integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous">
+</script>
+</body>
+
+</html>
